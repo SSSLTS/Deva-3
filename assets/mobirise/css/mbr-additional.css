@@ -1,0 +1,88 @@
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+
+
+#msg-box4-b .mbr-header__text {
+  color: #8d9632;
+  font-family: 'Lora', serif;
+  font-size: 36px;
+  text-align: center;
+}
+#msg-box4-b .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-b .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-b .mbr-article P {
+  color: #2969b0;
+}
+#dropdown-menu-2btn-9 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-9 .navbar-brand a {
+  font-family: 'Oswald', sans-serif;
+  font-size: 60px;
+}
+#dropdown-menu-2btn-9 .nav .link,
+#dropdown-menu-2btn-9 .dropdown-item {
+  font-size: 1.2em;
+  color: #8d9632;
+  font-family: 'Oswald', sans-serif;
+}
+#dropdown-menu-2btn-9 .navbar,
+#dropdown-menu-2btn-9 .dropdown-menu {
+  background: #f2eef7;
+}
+#dropdown-menu-2btn-9 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-9 .dropdown-menu a:hover,
+#dropdown-menu-2btn-9 .dropdown-menu a:focus {
+  background: #e7e0f0;
+}
+#dropdown-menu-2btn-9 .navbar-toggler {
+  color: #8d9632;
+}
+
+
+
+#msg-box4-b .mbr-header__text {
+  color: #8d9632;
+  font-family: 'Lora', serif;
+  font-size: 36px;
+  text-align: center;
+}
+#msg-box4-b .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-b .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-b .mbr-article P {
+  color: #2969b0;
+}
+#dropdown-menu-2btn-9 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-9 .navbar-brand a {
+  font-family: 'Oswald', sans-serif;
+  font-size: 60px;
+}
+#dropdown-menu-2btn-9 .nav .link,
+#dropdown-menu-2btn-9 .dropdown-item {
+  font-size: 1.2em;
+  color: #8d9632;
+  font-family: 'Oswald', sans-serif;
+}
+#dropdown-menu-2btn-9 .navbar,
+#dropdown-menu-2btn-9 .dropdown-menu {
+  background: #f2eef7;
+}
+#dropdown-menu-2btn-9 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-9 .dropdown-menu a:hover,
+#dropdown-menu-2btn-9 .dropdown-menu a:focus {
+  background: #e7e0f0;
+}
+#dropdown-menu-2btn-9 .navbar-toggler {
+  color: #8d9632;
+}
